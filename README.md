@@ -1,1 +1,1 @@
-# happybirthday_bff
+# happy-birthday
